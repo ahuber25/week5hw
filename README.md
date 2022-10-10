@@ -7,4 +7,4 @@ For week 5, the challenge we were set up to do was to add javascript to the star
 
 Here is the link to the launched site:
 
-https://ahuber25.github.io/week5hw/
+https://ahuber25.github.io/workdayscheduler/
